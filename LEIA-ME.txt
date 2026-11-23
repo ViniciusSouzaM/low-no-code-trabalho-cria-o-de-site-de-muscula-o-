@@ -1,0 +1,30 @@
+DANI FIT — SITE COM 5 PÁGINAS
+
+Páginas incluídas:
+- index.html: página inicial
+- sobre.html: apresentação da Dani Fit
+- treinos.html: modalidades e objetivos de treino
+- videos.html: biblioteca visual com buscas de vídeos de treino
+- contato.html: informações e formulário demonstrativo
+- pagamentos.html: opções PIX e cartão de crédito
+- assets/: folha de estilos e logotipo ilustrativo
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Abra a pasta dani_fit_site.
+3. Dê dois cliques em index.html.
+
+O site utiliza Bootstrap 5, fontes do Google Fonts e imagens externas. Para carregar esses recursos, é necessário estar conectado à internet.
+
+Personalizações antes de publicar:
+- Na página contato.html, substitua e-mail, local e horários pelas informações reais.
+- O formulário de contato é demonstrativo e ainda não envia mensagens.
+- Na página pagamentos.html, a chave PIX/QR Code e o link de cartão devem ser fornecidos pela Dani Fit. A página apresenta as formas de pagamento, mas não processa transações.
+- Confirme as bandeiras aceitas e as condições de parcelamento do cartão.
+- O logotipo incluído é ilustrativo; substitua pelo arquivo oficial da marca, se desejar.
+
+
+Atualização visual: identidade em vermelho e preto. A página de pagamentos utiliza o logotipo oficial do Pix (Banco Central do Brasil), carregado da Wikimedia Commons; é necessária conexão com a internet para exibi-lo. O cartão de crédito permanece como segunda opção.
+
+
+Crédito acadêmico exibido no rodapé de todas as páginas: Trabalho acadêmico da disciplina de NO CODE LOW CODE — aluno Vinícius Juan de Souza Mota.
